@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**namanchauhan8998/namanchauhan8998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Naman Singh - Data Science and Web Development Professional
 
 ## Contact Information
@@ -101,4 +98,3 @@
 - Photography
 - Guitar
 
--->
