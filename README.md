@@ -3,9 +3,7 @@
 # Naman Singh - Data Science and Web Development Professional
 
 ## Contact Information
-- **Address:** 208, 11 Cooper St, Camden, New Jersey
 - **Email:** ns1588@scarletmail.rutgers.edu
-- **Phone:** +1856-308-0771 / +91-9015942331
 - **LinkedIn:** [LinkedIn Profile](LinkedIn_Profile_Link)
 
 ## Education
